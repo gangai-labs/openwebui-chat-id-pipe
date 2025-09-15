@@ -180,7 +180,7 @@ For production deployments:
 ---
 ## 🧑‍💻 Author
 * **gangAI Team**
-* **GitHub**: [@tomvsndev](https://github.com/tomvsndev)
+* **GitHub**: [@tomvsndev](https://github.com/gangai-labs)
 * Inspired by OpenWebUI's extensible filter system
 ![Team Collaboration](screenshots/screenshot13.png)
 ---
