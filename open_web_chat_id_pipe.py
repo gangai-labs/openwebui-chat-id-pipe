@@ -1,7 +1,7 @@
 """
 title: Chat ID Tracker
 author: gangAI team
-author_url: https://github.com/tomvsndev
+author_url: https://github.com/gangai-labs
 version: 0.4
 description: Tracks chat_id per conversation. Reuses chat_id if conversation continues, even across multiple requests. Session IDs assigned if missing.Stop button works.Will stop backend too 
 """
